@@ -1,0 +1,15 @@
+  /* COLORS: 
+  18,18,18 DG FOR BG
+  33,33,33 for any containers create
+  230,230,230 for border + text
+  */
+body {
+  background-color: RGB(18,18,18);
+}
+
+/* #root {
+  display: grid;
+  grid-template-columns: 20% 60% 20%;
+  grid-template-rows: 1fr 2fr 2fr;
+  /* height: 100vh; */
+} */
